@@ -1,0 +1,7 @@
+# skills section data
+#Ability
+label: Programming
+id : cs
+aspects: C++, Java, Javascript, HTML/CSS, Python, vb.NET
+percentage: 100, 50, 65, 80, 20, 90
+

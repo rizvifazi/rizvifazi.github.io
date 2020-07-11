@@ -1,0 +1,80 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Rizvi Fazi
+email: rizvifazi124@gmail.com
+description: Web Developer | Content Creator | SEO
+url: rizvifazi124.github.io
+keywords: ["Portfolio", "Web","Development","SEO",]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Rizvi Fazi
+  avatar: rizvi fazi.jpg
+  job: "Web Developer | Content Creator | SEO"
+  bio: "Web Developing Enthusiast experienced in Content Creation "
+  email: 
+  disqus-shortname:
+  twitter: #username
+  facebook: rizvi124
+  google: 
+  plus: #username
+  analytics:
+  verify:
+  ad-client:
+  ad-slot:
+  bing-verify:
+  github: rizvifazi
+  gitlab: #username
+  stackoverflow: 9101358/rizvifazi
+  linkedin: rizvifazi
+  skype: #username
+  xing: #username
+  instagram: rizvifazi
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: 
+  soundcloud: #username
+  weibo: #username
+  flickr: rizvi124
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"

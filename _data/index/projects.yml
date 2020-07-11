@@ -1,0 +1,9 @@
+- name: Railway Ticket Reservstion System
+  descr: "This is a mini Railway Ticket Resevation System which has the ability to reserve prefered seats and to calculate amount for tickets issued."
+  image: pong.png
+  github: https://github.com/rizvifazi/railway/
+
+- name: Class Scheduling System
+  descr: "A simple class scheduling system developed using HTML,CSS and Javascript with a beautiful User interface"
+  image: pong.png
+  github: https://github.com/rizvifazi/class_scheduler/
