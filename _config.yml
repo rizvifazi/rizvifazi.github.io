@@ -69,9 +69,7 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-exclude:
-  - LICENSE
-  - README.md
+
 
 plugins:
   - jekyll-paginate
