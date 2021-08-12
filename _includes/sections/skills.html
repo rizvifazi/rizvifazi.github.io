@@ -21,10 +21,28 @@
     data: data,
     options: {
         scale: {
+           // responsive: true,
+           // ticks: {min: 0, max: 100},
+           // lineArc: false,
+           // pointLabels: {fontSize: 14},
             responsive: true,
-            ticks: {min: 0, max: 100},
-            lineArc: false,
-            pointLabels: {fontSize: 14},
+			lineArc: false,
+            ticks: {
+			min: 0, 
+			max: 100, 
+			fontColor: 'white', 
+			showLabelBackdrop: false 
+			},
+			pointLabels: {
+			fontColor: 'white', // labels around the edge like 'Running'
+			fontSize: 14
+			},
+			gridLines: {
+			color: 'rgba(255, 255, 255, 0.2)'
+			},
+			angleLines: {
+			color: 'white' // lines radiating from the center
+			}
         },
         scaleFontSize: 0,
         legend: {display: false},
