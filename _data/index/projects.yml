@@ -8,7 +8,7 @@
   image: pong.png
   github: https://github.com/rizvifazi/class_scheduler/
   
-  - name: Test Link
+- name: Test Link
   descr: "Check Description"
   image: pong.png
   github: https://github.com
