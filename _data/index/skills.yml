@@ -2,6 +2,6 @@
 #Ability
 label: Programming
 id : cs
-aspects: C++, Java, Javascript, HTML/CSS, Python, vb.NET
-percentage: 100, 50, 65, 80, 20, 90
+aspects: C++, Java, Javascript, HTML/CSS, SQL, vb.NET
+percentage: 90, 50, 65, 80, 70, 90
 
