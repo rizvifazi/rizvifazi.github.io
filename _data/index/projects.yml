@@ -8,7 +8,7 @@
   image: pong.png
   github: https://github.com/rizvifazi/class_scheduler/
   
-- name: Test Link
-  descr: "Check Description"
+- name: To Do List
+  descr: "A simple to Do List created by Vanilla JS and Tailwind CSS library"
   image: pong.png
-  github: https://github.com
+  github: https://rizvifazi.github.io/vanilla_js_todoList/
