@@ -8,6 +8,11 @@
   image: pong.png
   github: https://github.com/rizvifazi/class_scheduler/
   
+- name: Portfolio Website
+  descr: "A simple WordPress Portfolio website created to showcase the Designing products and services offered by Rizvi Fazi"
+  image: pong.png
+  github: http://rizvi.unaux.com/
+  
 - name: To Do List
   descr: "A simple to Do List created by Vanilla JS and Tailwind CSS library"
   image: pong.png
