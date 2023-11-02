@@ -7,11 +7,26 @@
   descr: "A simple Class Scheduling System developed to ease the task of allocating lecturers and lecture halls."
   image: pong.png
   github: https://github.com/rizvifazi/class_scheduler/
-  
-- name: Portfolio Website
-  descr: "A simple WordPress Portfolio website created to showcase the Designing products and services offered by Rizvi Fazi"
+
+- name: Serverless Data Processing with Dataflow 
+  descr: "Serverless Data Processing with Dataflow - CI/CD with Dataflow"
   image: pong.png
-  github: http://rizvi.unaux.com/
+  github: https://partner.cloudskillsboost.google/public_profiles/d28d0eac-d065-4b40-a579-22cfc0779ee9
+
+- name: ETL Pipeline
+  descr: "Writing an ETL Pipeline using Apache Beam and Cloud Dataflow"
+  image: pong.png
+  github: https://partner.cloudskillsboost.google/public_profiles/d28d0eac-d065-4b40-a579-22cfc0779ee9
+
+- name: Distributed Image Processing
+  descr: "Distributed Image Processing in Cloud Dataproc"
+  image: pong.png
+  github: https://partner.cloudskillsboost.google/public_profiles/d28d0eac-d065-4b40-a579-22cfc0779ee9
+  
+- name: Data Engineering
+  descr: "Data Engineering in Google Cloud"
+  image: pong.png
+  github: https://partner.cloudskillsboost.google/public_profiles/d28d0eac-d065-4b40-a579-22cfc0779ee9/badges/3600815
   
 - name: To Do List
   descr: "A simple to Do List created by Vanilla JS and Tailwind CSS library"
