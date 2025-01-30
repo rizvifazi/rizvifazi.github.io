@@ -58,7 +58,8 @@ Demo video:
   - Configured scaling policies based on CPU/memory usage.  
 - **Private-ASG**:  
   - Launched EC2 instances in private subnets (application tier).  
-  - Ensured instances are only accessible via **Public-SG**.  
+  - Ensured instances are only accessible via **Public-SG**.
+
 ---
 
 #### 5. Load Balancers & Target Groups  
@@ -116,12 +117,16 @@ Demo video:
 
 [Highly Available AWS 3 Tier Terraform Template](https://github.com/rizvifazi/aws-ha-tf)
 
+---
+
 #### 1. Configure the AWS CLI  
 ```shell
 $ aws configure
 AWS Access Key ID [****************MRAE]: 
 AWS Secret Access Key [****************6wNJ]: 
 ```
+
+---
 
 #### 2. Install and Validate Terraform
 
@@ -135,13 +140,18 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 sudo apt update && sudo apt install terraform
 ```
 
+
+
 **Validate Installation:**
 
 ```shell
 terraform -version
 ```
 
+
 This should display the installed Terraform version (e.g., `Terraform v1.5.7`), confirming a successful installation.
+
+---
 
 
 #### 3. Clone the Repo and cd
@@ -149,6 +159,8 @@ This should display the installed Terraform version (e.g., `Terraform v1.5.7`), 
 ```shell
 git clone https://github.com/rizvifazi/aws-ha-tf.git
 ```
+
+---
 
 
 #### 4. Execute terraform commands  
