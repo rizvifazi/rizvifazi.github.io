@@ -1,3 +1,4 @@
+---
 layout: post
 title: "AWS 3 Tier Architecture"
 excerpt: "In this post I have demonstrated how we can manually implement a well architected, 3 tier deployment in AWS, later I have also discussed how we can reproduce the same using a terraform"
@@ -8,6 +9,7 @@ image:
   credit: rizvifazi
   creditlink: https://youtu.be/UxbH_Fj5p0g
 ---
+
 
 # AWS 3 Tier Architecture
 
