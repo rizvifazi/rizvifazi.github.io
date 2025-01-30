@@ -2,6 +2,6 @@
 #Ability
 label: Programming
 id : cs
-aspects: C#, Java, Javascript, HTML/CSS, SQL, Python
+aspects: Java, DevOps, Cloud, Observability, DBMS, Python/Bash
 percentage: 90, 80, 80, 80, 70, 70
 
