@@ -162,8 +162,13 @@ git clone https://github.com/rizvifazi/aws-ha-tf.git
 
 ---
 
+#### 4. Create a key pair named `tf-keypair` in your AWS account
+- We are taking a manual approach to create the keys for our convenience.
+- This key-pair will be used by the terraform script to create resources.
 
-#### 4. Execute terraform commands  
+---
+
+#### 5. Execute terraform commands  
 
 ```HCL
 # Intialises provider plugin and modules  
