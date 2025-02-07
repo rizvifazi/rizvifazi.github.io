@@ -24,13 +24,13 @@ image:
 
 ### Tools Used:
 
-**GitHub**: For Source Code Management and Versioning
-**Jenkins**: For orchestrating the CI/CD Pipeline
-**Maven**: To build Artifacts
-**Docker**: Containerize the Application using Dockerfile
-**Ansible**: To automate deployment using ansible-playbooks
-**DockerHub**: Versioning Docker images, centralized image repository.
-**Azure Kubernetes Service**: Container orchestration
+- **GitHub**: Source Code Management and Versioning [GitHub Repository](https://github.com/rizvifazi/EmployeeinfoSpring.git)
+- **Jenkins**: For orchestrating the CI/CD Pipeline
+- **Maven**: To build Artifacts
+- **Docker**: Containerize the Application using Dockerfile
+- **Ansible**: To automate deployment using ansible-playbooks
+- **DockerHub**: Versioning Docker images, centralized image repository.
+- **Azure Kubernetes Service**: Container orchestration
 
 ---
 
