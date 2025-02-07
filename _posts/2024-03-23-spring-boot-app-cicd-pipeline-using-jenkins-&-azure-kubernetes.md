@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot App CI/CD using Jenkins"
+title: "Spring Boot App CI/CD Pipeline using Jenkins & Azure Kubernetes"
 excerpt: "In this post I have demonstrated how I implement an end-to-end CI/CD pipeline using GitHub, Jenkins, Maven and Ansible to deploy a Spring Boot webapp to Kubernetes"
 categories: [CICD, Jenkins, Ansible, Kubernetes, Azure Kubernetes Service, Spring Boot, Java]
 comments: true
@@ -10,11 +10,6 @@ image:
   creditlink: https://rizvifazi.github.io/
 ---
 
-
-
-# Spring Boot App CI/CD Pipeline using Jenkins & Azure Kubernetes 
-
----
 
 ## **Architecture Flow**  
 1. **CI** :  User → **Commit code to GitHub**(SCM) → **Jenkins Build Artifacts using Maven Plugin**(Build)  → **Artifacts Deployed to Ansible Server**
