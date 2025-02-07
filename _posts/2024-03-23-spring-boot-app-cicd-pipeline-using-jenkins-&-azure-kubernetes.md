@@ -12,7 +12,7 @@ image:
 
 
 
-# Spring Boot App CI/CD using Jenkins
+# Spring Boot App CI/CD Pipeline using Jenkins & Azure Kubernetes 
 
 ---
 
